@@ -14,4 +14,4 @@ def iterPower(base, exp):
     		temp *= base
     	return temp
 
-print(iterPower(9.66, 2))
+print(iterPower(10, 2))
